@@ -1,0 +1,6 @@
+将GitHub上的文件克隆到电脑上
+找出所要克隆的文件点击clone or download 点击复制 找出安装在电脑的git文件clone 再粘贴即可
+将电脑文件的改变同步到GitHub客户端
+点击Git GUI Here 检测是否有改变 检测完之后点其右上角的文件夹形式 的图标将其移到下方然后点 commit 最后push 出现success之后即可
+github 客户端出现改变之后
+点击Remote中fetch from 点击Merge fetch是将文件从远程仓库移到本地仓库，Merge是将其从本地仓库传到本地工作区。
